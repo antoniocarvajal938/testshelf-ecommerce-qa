@@ -2,6 +2,7 @@ import { books } from "../data/books";
 import ProductCard from "../components/ProductCard";
 import { useCart } from "../hooks/useCart";
 import { Link } from "react-router-dom";
+import heroImage from "../assets/hero.png";
 
 export default function Home() {
   const { addToCart } = useCart();
@@ -12,7 +13,7 @@ export default function Home() {
       <section className="relative h-[70vh] flex items-center justify-center text-white overflow-hidden">
         {/* BACKGROUND IMAGE */}
         <img
-          src="/src/assets/hero.png"
+          src={heroImage}
           alt="Books background"
           className="absolute inset-0 w-full h-full object-cover"
         />
