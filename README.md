@@ -74,7 +74,7 @@ Designed specifically for QA engineers to:
 ### 📱 Responsive Design
 
 * Mobile-first approach
-* Premium hamburger menu
+* Hamburger menu
 
 ---
 
@@ -99,8 +99,9 @@ This project is intentionally designed to be testable:
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/qa-bookstore.git
-cd qa-bookstore
+git clone https://github.com/antoniocarvajal938/
+testshelf-ecommerce-qa.git
+cd testshelf-ecommerce-qa
 npm install
 npm run dev
 ```
@@ -148,7 +149,7 @@ This project aims to:
 
 ## 👨‍💻 Author
 
-Antonio — QA & Frontend Developer
+Antonio Carvajal — QA & Developer
 
 ---
 
