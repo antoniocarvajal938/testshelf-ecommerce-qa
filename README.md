@@ -1,6 +1,6 @@
 # 📚 QA TestShelf
 
-A modern e-commerce web application built with **React + TypeScript**, designed not only as a realistic online bookstore, but also as a **playground for QA automation testing**.
+A modern e-commerce web application built with **React + TypeScript**, designed not only as an online bookstore, but also as a **playground for QA automation testing**.
 
 ---
 
